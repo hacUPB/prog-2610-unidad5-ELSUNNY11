@@ -1,0 +1,85 @@
+INFORME ESTADÍSTICO DE CALIDAD DEL AIRE - RED DE MONITOREO METROPOLITANO
+
+[REGISTRO_001]
+FECHA: 2026-05-18
+HORA: 06:00
+ESTACION: Centro
+METRICAS: El sensor registró una concentración de PM2.5 de 45.2 microgramos por metro cúbico y PM10 de 60.1 microgramos por metro cúbico. Los niveles de dióxido de nitrógeno (NO2) se mantuvieron en 20.5 ppb.
+EVALUACION: El Índice de Calidad del Aire (ICA) se calculó en 124 puntos. Esto clasifica el estado ambiental como "Nocivo para grupos sensibles". Las condiciones meteorológicas registraron una temperatura de 18.5 grados Celsius. Se recomienda a personas con asma evitar esfuerzos prolongados al aire libre.
+
+[REGISTRO_002]
+FECHA: 2026-05-18
+HORA: 06:00
+ESTACION: Norte
+METRICAS: Se observó una atmósfera limpia con PM2.5 en 12.1 y PM10 en 22.0 microgramos por metro cúbico. El NO2 se situó en un nivel muy bajo de 10.2 ppb.
+EVALUACION: Con un ICA de 45 puntos, la calidad del aire es "Buena". Temperatura local de 17.0 grados Celsius. Condiciones óptimas para cualquier tipo de actividad física en exteriores.
+
+[REGISTRO_003]
+FECHA: 2026-05-18
+HORA: 06:00
+ESTACION: Sur
+METRICAS: El balance parcial muestra PM2.5 en 25.4 y PM10 en 35.2 microgramos por metro cúbico. Las trazas de NO2 alcanzaron las 15.1 ppb.
+EVALUACION: El índice general se posiciona en 78 puntos, lo que determina un estado "Moderado". La temperatura ambiente fue de 17.5 grados Celsius. No se reportan riesgos mayores para la población general.
+
+[REGISTRO_004]
+FECHA: 2026-05-18
+HORA: 12:00
+ESTACION: Centro
+METRICAS: Al mediodía el tráfico vehicular elevó el PM2.5 a un pico crítico de 55.8 y el PM10 a 75.3 microgramos por metro cúbico. El contaminante NO2 subió a 25.4 ppb.
+EVALUACION: El ICA escaló hasta los 152 puntos, entrando formalmente en la categoría de "Nocivo". La temperatura aumentó significativamente a 24.0 grados Celsius, empeorando la dispersión de los gases. Se sugiere el uso de mascarillas en zonas de alto tráfico.
+
+[REGISTRO_005]
+FECHA: 2026-05-18
+HORA: 12:00
+ESTACION: Norte
+METRICAS: El impacto del tráfico fue menor en esta zona, registrando PM2.5 de 15.3 y PM10 de 28.1 microgramos por metro cúbico. El NO2 marcó 12.0 ppb.
+EVALUACION: El ICA se mantuvo estable en 55 puntos, categorizado como "Moderado". Temperatura registrada de 22.5 grados Celsius. El entorno permanece mayoritariamente seguro.
+
+[REGISTRO_006]
+FECHA: 2026-05-18
+HORA: 12:00
+ESTACION: Sur
+METRICAS: Incremento moderado de partículas con un PM2.5 de 30.2 y PM10 de 45.0 microgramos por metro cúbico. Los sensores de NO2 detectaron 18.5 ppb.
+EVALUACION: El índice se calculó en 88 puntos, permaneciendo en estado "Moderado". Temperatura de 23.1 grados Celsius. Se aprecia una ligera bruma sobre el horizonte urbano.
+
+[REGISTRO_007]
+FECHA: 2026-05-18
+HORA: 18:00
+ESTACION: Centro
+METRICAS: Durante la hora pico de la tarde, el PM2.5 alcanzó su máximo diario con 65.1 y el PM10 llegó a 85.2 microgramos por metro cúbico. El NO2 se elevó a 30.1 ppb.
+EVALUACION: El ICA se disparó a 165 puntos, consolidándose en niveles fuertemente "Nocivos". La temperatura descendió ligeramente a 20.5 grados Celsius bajo cielos parcialmente nublados. Restricción recomendada para deportes al aire libre.
+
+[REGISTRO_008]
+FECHA: 2026-05-18
+HORA: 18:00
+ESTACION: Norte
+METRICAS: El flujo de viento ayudó a mantener lecturas bajas: PM2.5 en 18.5 y PM10 en 30.4 microgramos por metro cúbico. El NO2 marcó 14.2 ppb.
+EVALUACION: El índice dio un resultado de 62 puntos, lo que significa calidad del aire "Moderada". Temperatura de 19.0 grados Celsius.
+
+[REGISTRO_009]
+FECHA: 2026-05-18
+HORA: 18:00
+ESTACION: Sur
+METRICAS: Los sensores arrojaron valores de PM2.5 en 35.7 y PM10 en 50.1 microgramos por metro cúbico, rozando los límites permisibles. El NO2 fue de 20.0 ppb.
+EVALUACION: El ICA finalizó la jornada en 95 puntos, en el umbral superior de la categoría "Moderado". Temperatura ambiental de 19.8 grados Celsius.
+
+[REGISTRO_010]
+FECHA: 2026-05-19
+HORA: 06:00
+ESTACION: Centro
+METRICAS: Una nueva jornada inicia con acumulación residual de partículas: PM2.5 de 40.1 y PM10 de 55.0 microgramos por metro cúbico. El NO2 comenzó en 18.5 ppb.
+EVALUACION: El indicador amaneció en 115 puntos, clasificado como "Nocivo para grupos sensibles". Temperatura fresca de 18.0 grados Celsius.
+
+[REGISTRO_011]
+FECHA: 2026-05-19
+HORA: 06:00
+ESTACION: Norte
+METRICAS: Excelente ventilación matutina. El PM2.5 descendió a 10.5 y el PM10 a 18.2 microgramos por metro cúbico. El NO2 se redujo a 8.5 ppb.
+EVALUACION: Con apenas 40 puntos en el ICA, el estado es "Bueno". Temperatura de 16.5 grados Celsius. Aire completamente limpio.
+
+[REGISTRO_012]
+FECHA: 2026-05-19
+HORA: 06:00
+ESTACION: Sur
+METRICAS: Valores estables al inicio del día con PM2.5 de 22.0 y PM10 de 30.5 microgramos por metro cúbico. El NO2 se situó en 12.4 ppb.
+EVALUACION: El índice se estableció en 68 puntos, garantizando un ambiente "Moderado". Temperatura de 17.2 grados Celsius.
